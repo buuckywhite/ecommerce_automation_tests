@@ -7,15 +7,15 @@ using Selenium in a POM structure
 
 Project is created with:
 
-    Python version: 3.10
-    Selenium WebDriver version: 4.10
-    pytest version: 7.0.1
+    Python version: 3.9
+    Selenium WebDriver version: 4.1.3
+    pytest version: 7.1.1
 
 **Setup**
 
 To run this project on Windows, install locally:
 
-    1. Python 3.10
+    1. Python 3.9
     2. Chrome browser
     3. Clone this repository with git bash
     4. Create virtual environment:
