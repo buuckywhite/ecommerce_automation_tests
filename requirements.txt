@@ -1,0 +1,5 @@
+selenium
+webdriver-manager
+pyPOM
+pytest
+pytest-html
