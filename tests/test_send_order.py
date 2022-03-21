@@ -32,4 +32,3 @@ def test_send_order(browser):
     fill_checkout_data.payment_method_continue_button.click()
     appeared_warning_text = fill_checkout_data.missing_payment_method_warning.text
     assert appeared_warning_text == 'Warning: Payment method required!\n×'
-    time.sleep(5)
